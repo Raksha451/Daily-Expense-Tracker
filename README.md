@@ -25,9 +25,7 @@ Daily Expense Tracker aims to make expense recording easier, improve awareness o
 
 The technologies used in this project depend on the current repository implementation.
 
-- **Frontend:** Add your actual UI framework or technologies.
-- **Programming Language:** Add the language used in the project.
-- **Data Storage:** Specify the database or storage mechanism, if applicable.
+- **Programming Language:** HTML
 - **Development Tools:** Git and GitHub.
 
 ## 🚀 Getting Started
